@@ -1,0 +1,3 @@
+paswitcher appname source#
+
+Finds a PulseAudio source output by application name and moves it to another source (chosen by its ID).
